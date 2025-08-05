@@ -16,6 +16,8 @@ Issue with blob:
 Issue with Azure SQL
 * Cold start issue, take more then initially, can use caching strategy or light query run to keep this service alive.
 * Slighly expensive then BLOB.
+
+ChatGPT conversation: https://chatgpt.com/share/6891a3e9-e0bc-800f-b693-5f1e47c58aa5
   
  
      
